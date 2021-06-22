@@ -1,0 +1,18 @@
+{
+  "weights": {
+    "ice_cap": 300,
+    "cool_temperate": 70,
+    "wet_temperate": 100,
+    "boreal": 200,
+    "cold_swamp": 100,
+    "dry_temperate": 100,
+    "warm_temperate": 100,
+    "hot_swamp": 100,
+    "tropical": 100,
+    "mediteranean": 100,
+    "savanna": 100,
+    "hot_desert": 100,
+    "wasteland": 100,
+    "hell": 100
+  }
+}
